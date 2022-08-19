@@ -39,3 +39,24 @@ To check whether the person can get the loan or not by evaluating the data with 
 3 Decision Tree
 
 4 Random Forest
+
+5 KNeighborsClassifier
+
+**Evaluation:-** After model development we check the accuracy for   accurate results.
+# Tools and Technologies
+1 Python3
+
+2 Machine Learning
+
+3 Jupyter notebook
+
+4 numpy
+
+5 pandas
+
+6 seaborn
+
+7 matplotlib
+
+8 Sk-Learn
+
