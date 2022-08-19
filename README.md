@@ -65,4 +65,4 @@ To check whether the person can get the loan or not by evaluating the data with 
  1 We have developed a model which can easily predict that the person will get loan or not.
  
  2 Machine learning has helped a lot in developing this model which gives precise results
- The accuracy of Gaussian Naive Bayes is 82.16 % and for Decision Tree it is 82.1% accuracy.
+ The accuracy of LogisticRegression is 83.24 % and for Gaussian Naive Bayes 82.16% accuracy.
