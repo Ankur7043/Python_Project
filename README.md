@@ -5,3 +5,18 @@ To predict wether person eligible  for loan or not
 To check whether the person can get the loan or not by evaluating the data with the help of decision tree classifiers which can gives the accurate result for the prediction.
 # Methodology
 **Data Collection:-** We worked on Secondary Data, Secondary data collected  from kaggel 
+| Variable | Description |
+| --- | --- |
+| Loan_ID | Unique Loan ID|
+| Gender | Male/ Female |
+| Married | Applicant married (Y/N)|
+| Dependents |	Number of dependents |
+| Education	| Applicant Education (Graduate/ Under Graduate)|
+| Self_Employed |	Self employed (Y/N) |
+| ApplicantIncome |	Applicant income |
+| CoapplicantIncome |	Coapplicant income |
+| LoanAmount |	Loan amount in thousands |
+| Loan_Amount_Term |	Term of loan in months |
+| Credit_History |	credit history meets guidelines |
+| Property_Area |	Urban/ Semi Urban/ Rural |
+| Loan_Status |	Loan approved (Y/N) |
